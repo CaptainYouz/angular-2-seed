@@ -1,0 +1,18 @@
+{
+  "name": "angular-2-seed",
+  "version": "1.0.0",
+  "description": "A simple seed project for Angular2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptainYouz/angular-2-seed.git"
+  },
+  "keywords": [
+    "Angular2"
+  ],
+  "author": "Anas Mammeri <anas.mammeri@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptainYouz/angular-2-seed/issues"
+  },
+  "homepage": "https://github.com/CaptainYouz/angular-2-seed#readme"
+}
