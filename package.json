@@ -14,5 +14,14 @@
   "bugs": {
     "url": "https://github.com/CaptainYouz/angular-2-seed/issues"
   },
-  "homepage": "https://github.com/CaptainYouz/angular-2-seed#readme"
+  "homepage": "https://github.com/CaptainYouz/angular-2-seed#readme",
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.44",
+    "del": "^2.1.0",
+    "es6-shim": "^0.33.13",
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-typescript": "^2.10.0",
+    "systemjs": "^0.19.2"
+  }
 }
